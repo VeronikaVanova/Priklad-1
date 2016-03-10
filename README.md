@@ -4,3 +4,4 @@
 # 22.4.2016
 # Stav teoretickej časti: 0%
 # Stav praktickej časti: 90%
+# zmena spravena v remote repositari
